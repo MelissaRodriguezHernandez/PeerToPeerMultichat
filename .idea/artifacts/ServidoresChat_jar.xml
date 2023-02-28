@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServidoresChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServidoresChat_jar</output-path>
+    <root id="archive" name="ServidoresChat.jar">
+      <element id="module-output" name="ServidoresChat" />
+    </root>
+  </artifact>
+</component>
